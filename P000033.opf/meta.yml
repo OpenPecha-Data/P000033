@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་ཕྱོགས་ནས་དྲི་བ་ལ་ལན་དུ་བགྱིས་པ་ཡིད་བཞིན་ནོར་བུའི་དོ་ཤལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-05
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Garland of Wish-Fulfilling Gems:Answers to Questions on Mahamudra
+    bo: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་ཕྱོགས་ནས་དྲི་བ་ལ་ལན་དུ་བགྱིས་པ་ཡིད་བཞིན་ནོར་བུའི་དོ་ཤལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 5
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༥
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-05
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-05.epub
+  description:
+    en: ''
+    bo: ''

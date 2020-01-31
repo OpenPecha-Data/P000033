@@ -1,0 +1,14 @@
+## Title
+	- ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་ཕྱོགས་ནས་དྲི་བ་ལ་ལན་དུ་བགྱིས་པ་ཡིད་བཞིན་ནོར་བུའི་དོ་ཤལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+	- A Garland of Wish-Fulfilling Gems:Answers to Questions on Mahamudra
+
+### Author
+	- རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+	- Tsele Natsok Rangdrol
+
+### Layers:
+	- book_title
+	- author
+	- chapter_title
+	- quotation
+	- yigchung
