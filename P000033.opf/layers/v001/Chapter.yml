@@ -2,7 +2,7 @@ id: ce30b98fafc549609ac03d1378d98f94
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: e99fc189ca784da5a756b181a62ea1d7
-  span:
-    start: 156
-    end: 259
+  e99fc189ca784da5a756b181a62ea1d7:
+    span:
+      start: 156
+      end: 259
